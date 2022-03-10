@@ -1,1 +1,81 @@
-[{"idOrder":"1-01","clientName":"Joseph Camargo","size":"Sarten","ingredients":["peperoni","anchoas","pollo"],"price":200.5,"soda":"Coca-Cola"},{"idOrder":"1-02","clientName":"JuanPigydelamar","size":"Sarten","ingredients":["peperoni","anchoas","pollo"],"price":200.5,"soda":"Coca-Cola"},{"idOrder":"10-01","clientName":"Joseph","size":"Sarten","ingredients":["peperoni","anchoas","pollo"],"price":200.5,"soda":"Coca-Cola"}]
+[
+    {
+        "idOrder":"1-01",
+        "clientName":"Joseph Camargo",
+        "pizzaName":"Rellena de queso",
+        "size":"Mediana",
+        "ingredients":["pepperoni","anchoas","pollo"],
+        "price":200.5,
+        "soda":"Coca"
+        },
+        
+        {
+        "idOrder":"1-02",
+        "clientName":"José Chávez",
+        "pizzaName":"Crunchy",
+        "size":"Grande",
+        "ingredients":["chorizo","cebolla","parmesano"],
+        "price":172.0,
+        "soda":"Sprite"
+        },
+        
+        {
+        "idOrder":"1-03",
+        "clientName":"Florencia González",
+        "pizzaName":"Sartén",
+        "size":"Chica",
+        "ingredients":["Chorizo","Champiñones","Cheddar"],
+        "price":150.5,
+        "soda":"Squirt"
+        },
+        
+        {
+        "idOrder":"1-04",
+        "clientName":"Francisco Villa",
+        "pizzaName":"Italiana",
+        "size":"Grande",
+        "ingredients":["Aceitunas","Tocino","Habanero"],
+        "price":172.0,
+        "soda":"Pepsi"
+        },
+        
+        {
+        "idOrder":"1-05",
+        "clientName":"Graciela Fernandez",
+        "pizzaName":"Sartén",
+        "size":"Grande",
+        "ingredients":["Salami","Pimiento","Parmesano"],
+        "price":208.5,
+        "soda":"Sprite"
+        },
+        
+        {
+        "idOrder":"1-06",
+        "clientName":"Pedro Gaviña",
+        "pizzaName":"Italiana",
+        "size":"Mediana",
+        "ingredients":["Piña","Jamon","Queso Crema"],
+        "price":182.0,
+        "soda":"Manzanita"
+        },
+        
+        {
+        "idOrder":"1-07",
+        "clientName":"Imelda Perez",
+        "pizzaName":"Original",
+        "size":"Chica",
+        "ingredients":["Jalapeños","Chorizo","Parmesano"],
+        "price":238.0,
+        "soda":"Coca"
+        },
+        
+        {
+        "idOrder":"1-08",
+        "clientName":"Gabriel Hernandez",
+        "pizzaName":"Rellena de queso",
+        "size":"Chica",
+        "ingredients":["Aceitunas","Piña","Carne Molida"],
+        "price":189.5,
+        "soda":"Sprite"
+        }
+]
